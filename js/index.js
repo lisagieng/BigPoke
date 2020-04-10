@@ -29,7 +29,7 @@ $(document).ready(function(){
     $(".boxMenu").hide();
   });
   $("#orderclose").click(function() {
-    $("#orderDiv .boxorder").fadeToggle("slow");
+    $("#orderDiv .boxOrder").fadeToggle("slow");
   });
 
   //contact us
