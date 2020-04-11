@@ -1,0 +1,12 @@
+plugins:
+  - jekyll-seo-tag
+
+title: Big BigPoke
+tagline: Big Poké is an authentic Hawaiian styled restaurant representing island heritage and a passion for food.
+description: Big Poké is an authentic Hawaiian styled restaurant representing island heritage and a passion for food. Having our roots traced to Hawaii, we hope to provide you the taste and hospitality of the island that is dear to our hearts.
+url: bigpokefresh.com
+logo: /img/bigpoke_logo.png
+social:
+  links:
+    - https://www.facebook.com/bigpoke.dtl/
+    - https://www.instagram.com/bigpokelowell/
